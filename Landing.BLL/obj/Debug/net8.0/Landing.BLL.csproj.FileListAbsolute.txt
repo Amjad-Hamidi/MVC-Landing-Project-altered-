@@ -1,0 +1,16 @@
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\bin\Debug\net8.0\Landing.BLL.deps.json
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\bin\Debug\net8.0\Landing.BLL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\bin\Debug\net8.0\Landing.BLL.pdb
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\bin\Debug\net8.0\Landing.DAL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\bin\Debug\net8.0\Landing.DAL.pdb
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.csproj.AssemblyReference.cache
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.AssemblyInfoInputs.cache
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.AssemblyInfo.cs
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.csproj.CoreCompileInputs.cache
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing..40C54209.Up2Date
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\refint\Landing.BLL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.pdb
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\ref\Landing.BLL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.sourcelink.json

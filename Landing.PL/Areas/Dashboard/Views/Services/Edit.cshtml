@@ -1,0 +1,40 @@
+﻿@model ServiceFormVM
+
+@section Header {
+	Services
+}
+
+
+<div class="col-md-12">
+	<div class="card card-primary">
+		<div class="card-header">
+			<h3 class="card-title">Update</h3>
+		</div>
+
+
+		<form asp-controller="Services" asp-action="Edit">
+			<div class="card-body">
+				<input type="hidden" asp-for="Id" />
+				<div class="form-group">
+					<label asp-for="Name"></label>
+					<input asp-for="Name" class="form-control" placeholder="Enter Service Name">
+				</div>
+				<div class="form-group">
+					<label asp-for="Description"></label>
+					<input asp-for="Description" class="form-control" placeholder="Enter Service Description">
+				</div>
+
+				<div class="form-group"> <!-- تم اضافته لاحقا عشان نقدر نعدلها لانها موجودة بالاندكس بالاصل-->
+					<label asp-for="IsDeleted"></label>
+					<input asp-for="IsDeleted" />
+					<span>@(Model.IsDeleted ? "Deleted" : "Active" )</span>
+				</div>
+
+			</div>
+
+			<div class="card-footer">
+				<button type="submit" class="btn btn-primary" fdprocessedid="pvthkg">Update</button>
+			</div>
+		</form>
+	</div>
+</div>

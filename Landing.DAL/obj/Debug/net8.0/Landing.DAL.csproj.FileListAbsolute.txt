@@ -1,0 +1,15 @@
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\bin\Debug\net8.0\Landing.DAL.deps.json
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\bin\Debug\net8.0\Landing.DAL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\bin\Debug\net8.0\Landing.DAL.pdb
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.AssemblyInfoInputs.cache
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.AssemblyInfo.cs
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.csproj.CoreCompileInputs.cache
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\refint\Landing.DAL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.pdb
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\ref\Landing.DAL.dll
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\bin\Debug\net8.0\Landing.DAL.runtimeconfig.json
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.csproj.AssemblyReference.cache
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.sourcelink.json
+D:\ASP.NET\mvc_training\Projects\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.genruntimeconfig.cache
